@@ -1,6 +1,6 @@
 Bluboo Maya
 ===========
-Device Tree for LineageOS 14.1
+Device Tree for LineageOS 14.1 (Original tree by @seluce, so all credits to him!)
 ------------------
 
 | Device | Maya |
