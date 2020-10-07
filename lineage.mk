@@ -11,7 +11,7 @@ $(call inherit-product, device/Bluboo/Maya/lineage_Maya.mk)
 PRODUCT_DEVICE := Maya
 PRODUCT_NAME := lineage_Maya
 PRODUCT_BRAND := Bluboo
-PRODUCT_MODEL := Bluboo NOTE S
+PRODUCT_MODEL := Bluboo Maya
 PRODUCT_MANUFACTURER := Bluboo
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
