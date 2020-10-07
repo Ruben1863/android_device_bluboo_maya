@@ -14,6 +14,10 @@ Device Tree for LineageOS 14.1 (Original tree by @seluce, so all credits to him!
 
 Bug	tracker
 ---------------
+- N/A
+
+Bugs of tree
+---------------
 - [ ] Video recording inverted color (workarround: any third party camera)
 - [ ] Some app glitches are present (app crashes has been fixed, glitches are left)
 
