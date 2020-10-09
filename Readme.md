@@ -14,7 +14,7 @@ Device Tree for LineageOS 14.1 (Original tree by @seluce, so all credits to him!
 
 Bug tracker
 ---------------
-- [ ] Video playing (codecs issue: will be solved in next build)
+- Nothing found for now!
 
 Bugs of tree
 ---------------
