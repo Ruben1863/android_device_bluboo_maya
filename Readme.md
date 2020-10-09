@@ -12,9 +12,9 @@ Device Tree for LineageOS 14.1 (Original tree by @seluce, so all credits to him!
 | Storage |2GB RAM, 16GB storage |
 | Camera | 16MP rear / 8MP front |
 
-Bug	tracker
+Bug tracker
 ---------------
-- N/A
+- [ ] Video playing (codecs issue: will be solved in next build)
 
 Bugs of tree
 ---------------
