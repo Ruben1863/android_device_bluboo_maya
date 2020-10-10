@@ -16,9 +16,8 @@ Bug tracker
 ---------------
 - Nothing found for now!
 
-Bugs of tree
+Bugs of the tree
 ---------------
-- [ ] Video recording inverted color (workarround: any third party camera)
-- [ ] Some app glitches are present (app crashes has been fixed, glitches are left)
+- [ ] Some app glitches are present
 
 
